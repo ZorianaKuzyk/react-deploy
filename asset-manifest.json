@@ -1,16 +1,21 @@
 {
   "files": {
-    "main.css": "/react-deploy/static/css/main.77d988e3.css",
-    "main.js": "/react-deploy/static/js/main.10da89fd.js",
+    "main.css": "/react-deploy/static/css/main.ce4c3bf0.css",
+    "main.js": "/react-deploy/static/js/main.39340a69.js",
     "static/js/787.d6cb1aba.chunk.js": "/react-deploy/static/js/787.d6cb1aba.chunk.js",
-    "static/media/1519855918965.jfif": "/react-deploy/static/media/1519855918965.9556e880faf163f42cea.jfif",
+    "static/media/avatar.jpg": "/react-deploy/static/media/avatar.6f137698ebb956eb34d1.jpg",
+    "static/media/star-wars-women.jpg": "/react-deploy/static/media/star-wars-women.4f9c4ff0e61a45a89ae8.jpg",
+    "static/media/logo.png": "/react-deploy/static/media/logo.ecadf4aed28076151ebf.png",
+    "static/media/share.png": "/react-deploy/static/media/share.fc05146f41b6febd66ae.png",
+    "static/media/likes.png": "/react-deploy/static/media/likes.f6cd4cd0960c12feca30.png",
+    "static/media/comments.png": "/react-deploy/static/media/comments.b2cccce5ba9db4c03655.png",
     "index.html": "/react-deploy/index.html",
-    "main.77d988e3.css.map": "/react-deploy/static/css/main.77d988e3.css.map",
-    "main.10da89fd.js.map": "/react-deploy/static/js/main.10da89fd.js.map",
+    "main.ce4c3bf0.css.map": "/react-deploy/static/css/main.ce4c3bf0.css.map",
+    "main.39340a69.js.map": "/react-deploy/static/js/main.39340a69.js.map",
     "787.d6cb1aba.chunk.js.map": "/react-deploy/static/js/787.d6cb1aba.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.77d988e3.css",
-    "static/js/main.10da89fd.js"
+    "static/css/main.ce4c3bf0.css",
+    "static/js/main.39340a69.js"
   ]
 }
