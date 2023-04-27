@@ -1,40 +1,86 @@
-.App {
-  text-align: center;
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
-body {
-  background-color: #61dafb;
-}
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
+.card {
+  background-color: #283444;
+  padding: 10px;
   color: white;
+  width: 50%;
 }
-
-.App-link {
-  color: #61dafb;
+.card__info {
+  display: flex;
+  align-items: center;
 }
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.card__info-avatar {
+  border-radius: 50%;
+  height: 40px;
+  width: 45px;
+}
+.card__info-autor {
+  font-weight: 700;
+  font-size: 17px;
+  margin-left: 5px;
+}
+.card__info-logo {
+  height: 25px;
+  margin-left: 5px;
+}
+.card__info-data {
+  color: gray;
+  font-size: 13px;
+  font-weight: 700;
+  margin-left: 7px;
+}
+.card__main-text {
+  font-weight: 500;
+  margin-left: 50px;
+  font-size: 14px;
+}
+.card__main-img {
+  border-radius: 10px;
+  width: 92%;
+  margin-top: 7px;
+  margin-left: 50px;
+}
+.card__reactions {
+  display: flex;
+  justify-content: space-evenly;
+}
+.coments {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  font-size: 12px;
+}
+.coments-img {
+  height: 15px;
+}
+.share {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  font-size: 12px;
+}
+.share-img {
+  height: 15px;
+}
+.likes {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  font-size: 12px;
+}
+.likes-img {
+  height: 15px;
+}
+.download {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  font-size: 12px;
+}
+.download-img {
+  height: 15px;
 }
